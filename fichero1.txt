@@ -1,1 +1,2 @@
 contendio incial del fichero 1
+Contenido particular del repo
